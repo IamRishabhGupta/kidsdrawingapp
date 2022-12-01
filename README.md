@@ -7,8 +7,8 @@ I have also implimented direct share feature from where one can share it to emai
 
 
 
--------learnings----------
+                   -------learnings----------
 this is an app where i learnt about granting permissions 
 I learnt various implimentation of snackbar
 I leannt how we can draw on a canvas and import it as an bitmap
------this app stillnhave many bugs on which I am currently working on--------
+-----this app still have many bugs on which I am currently working on--------
